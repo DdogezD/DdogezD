@@ -1,1 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DdogezD&show_icons=true&rank_icon=percentile&hide=prs,issues&disable_animations=true&theme=ambient_gradient)
+<p align="center">
+<a href="https://github.com/DdogezD">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DdogezD&count_private=true&show_icons=true&include_all_commits=true&hide=prs,issues&theme=algolia"/>
+</a>
+</p>
